@@ -59,16 +59,27 @@ header {
 #inner {
   padding: 10px;
   margin-top: 10px;
+  height: 190px;
   color: #ebebeb;
   background: #777;
 }
 
 #division {
-  padding: 20px;
-  margin-top: 10px;
-  height: 50px;
+  padding: 10px;
+  margin-top: 5px;
+  height: 65px;
   background: #ebebeb;
   color: #777
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
 }
 /* 
 aside {
